@@ -19,16 +19,16 @@ int main()
 
 	//Determine whether a is larger, smaller, or equal to b and display the result
 	if (a > b)
-	{
+		{
 		cout << a << " is larger than " << b;
-	}
+		}
 	else if (a < b)
-	{
+		{
 		cout << b << " is larger than " << a;
-	}
+		}
 	else
-	{
+		{
 		cout << a << " is equal to " << b;
-	}
+		}
 }
 
