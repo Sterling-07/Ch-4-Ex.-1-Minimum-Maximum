@@ -22,11 +22,11 @@ int main()
 	{
 		cout << a << " is larger than " << b;
 	}
-	if (a < b)
+	else if (a < b)
 	{
 		cout << b << " is larger than " << a;
 	}
-	if (a == b)
+	else if (a == b)
 	{
 		cout << a << " is equal to " << b;
 	}
