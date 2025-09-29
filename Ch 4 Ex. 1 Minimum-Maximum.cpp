@@ -26,7 +26,7 @@ int main()
 	{
 		cout << b << " is larger than " << a;
 	}
-	else if (a == b)
+	else
 	{
 		cout << a << " is equal to " << b;
 	}
