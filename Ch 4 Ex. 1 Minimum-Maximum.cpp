@@ -1,7 +1,7 @@
 //File Name: Chapter 4 - Minimum/Maximum
 //Programmer: Philip Rodgers
 //Date: September 2025
-//Requirements: Create a program that allows the user to enter two numbers and can determine which one is larger and which one is smaller. 
+//Requirements: Create a program that allows the user to enter two numbers and can determine and display which one is larger and which one is smaller. 
 
 #include <iostream>
 using namespace std;
